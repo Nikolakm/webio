@@ -26,7 +26,7 @@ body {
     width: 100%;
     height: 80rem;
     display: block;
-    background-image: url(././img/Slider.png);
+    background-image: url(../img/Slider.png);
     background-size: cover;
 }
 
